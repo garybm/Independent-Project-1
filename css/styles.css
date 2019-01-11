@@ -1,18 +1,9 @@
 
 .container {
   position: relative;
+  padding: 50px;
 }
-.center {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-size: 18px;
-  font-weight: bolder;
-  text-align: center;
-  color: black;
 
-}
 .skills {
   text-align: center;
 }
@@ -24,13 +15,61 @@
 
 .jumbotron {
   color: darkgray;
+  text-align: center;
 
 }
 
 .about1 {
   border-radius: 4px;
   padding: 5px;
-  width: 500px;
+  width: 300px;
   height: auto;
   float: right;
+}
+
+.aboutme {
+ margin: 12px;
+ border: 4px solid darkgray;
+ padding: 10px;
+ background-color: pink;
+}
+
+.edu {
+  margin: 12px;
+  border: 4px solid darkgray;
+  padding: 10px;
+  background-color: pink;
+}
+nav {
+  padding: 15px;
+  text-align: center;
+  background-color: pink;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav li {
+  display: inline;
+  font-size: 25px;
+  padding: 50px;
+  margin: 50px;
+  color: black;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav a:visited {
+  color: gray;
+}
+
+.navigation a:hover {
+  color: black;
+}
+header {
+max-width: 100%;
+margin: 0;
 }
