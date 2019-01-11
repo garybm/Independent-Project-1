@@ -10,15 +10,28 @@
   font-size: 18px;
   font-weight: bolder;
   text-align: center;
-  color: white;
+  color: black;
+
 }
 .skills {
   text-align: center;
 }
-img {
-  width: 100%;
-  height: auto;
+
 }
 .projects {
   text-align: center;
+}
+
+.jumbotron {
+  color: black;
+
+}
+
+.about1 {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 200px;
+  height: auto;
+  float: right;
 }
