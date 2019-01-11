@@ -2,24 +2,29 @@
 body {
   background-color: lightgray;
 }
-.container {
-  position: relative;
-  padding: 50px;
+
+img {
+  margin: auto;
+  padding: 5px;
+  margin-bottom: 20px;
 }
 
+
+.container {
+  position: relative;
+  padding: 1px;
 }
 
 .skills {
   text-align: center;
 }
 
-}
 .projects {
   text-align: center;
 }
 
 .jumbotron {
-  color: darkgray;
+  color: #696969;
   text-align: center;
 }
 
@@ -68,9 +73,20 @@ margin: 0;
 .well h1 {
   text-align: center;
   font-weight: bold;
+  color: #696969;
 }
 
 .responsive {
   width: 100%;
   height: auto;
+}
+
+.row h1{
+  font-weight: bold;
+  text-align: center;
+  color: black;
+}
+
+.row li {
+  color: #696969;
 }
