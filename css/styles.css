@@ -21,7 +21,6 @@ body {
 .jumbotron {
   color: darkgray;
   text-align: center;
-
 }
 
 .about1 {
@@ -32,16 +31,6 @@ body {
   float: right;
 }
 
-.aboutme {
- margin: 12px;
- border: 4px solid darkgray;
- padding: 10px;
- background-color: pink;
- font-size: 20px;
- font-family: sans-serif;
-}
-
-}
 nav {
   padding: 15px;
   text-align: center;
@@ -74,4 +63,10 @@ nav a:visited {
 header {
 max-width: 100%;
 margin: 0;
+}
+
+.well h1 {
+  text-align: center;
+  font-weight: bold;
+  
 }
