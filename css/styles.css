@@ -1,5 +1,25 @@
+
+.container {
+  position: relative;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 18px;
+  font-weight: bolder;
+  text-align: center;
+  color: white;
+}
+
+.skills {
+  text-align: center;
+}
+
 img {
-    width: 100%;
-    opacity: 0.9;
-    filter: alpha(opacity=50);
-  }
+  width: 110%;
+  height: auto;
+}
+.
