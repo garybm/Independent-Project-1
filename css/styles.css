@@ -111,7 +111,7 @@ margin: 0;
 .box {
   background-color: lightgrey;
   width: 1000px;
-  border:10px solid teal;
+  border:5px solid teal;
   padding: 25px;
   margin: 25px;
 }
