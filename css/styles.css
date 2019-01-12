@@ -15,9 +15,9 @@ img {
   transform: translate(-50%, -50%);
 }
 
-.container {
+.container .jumbotron {
   position: relative;
-  padding: 1px;
+
 }
 
 .skills {
@@ -43,7 +43,7 @@ img {
 nav {
   padding: 15px;
   text-align: center;
-  background-color: pink;
+  background-color: teal;
 }
 
 nav ul {
@@ -96,7 +96,7 @@ margin: 0;
 
 .row h1{
   font-weight: bold;
-  text-align: center;
+  text-align: left;
   color: black;
 }
 
@@ -107,4 +107,11 @@ margin: 0;
   display: flex;
   flex-wrap: wrap;
   padding: 0 4px;
+}
+.box {
+  background-color: lightgrey;
+  width: 1000px;
+  border:10px solid teal;
+  padding: 25px;
+  margin: 25px;
 }
