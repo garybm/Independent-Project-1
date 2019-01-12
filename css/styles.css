@@ -103,3 +103,8 @@ margin: 0;
 .row li {
   color: #696969;
 }
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
