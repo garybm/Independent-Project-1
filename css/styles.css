@@ -3,7 +3,15 @@ body {
   background-color: lightgray;
 }
 
-img {
+.project h1 {
+  font-size: 50px;
+  font-style: normal;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  text-align: center;
+
+}
+.panel-body img {
   margin: auto;
   padding: 5px;
   margin-bottom: 20px;
@@ -13,15 +21,6 @@ img {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-}
-
-.container .jumbotron {
-  position: relative;
-
-}
-
-.skills {
-  text-align: center;
 }
 
 .projects {
@@ -34,59 +33,17 @@ img {
   padding: 30px;
 }
 
-.aboutme .well {
-  border-radius: 0px;
-  padding: 5px;
-  background-color: lightgray;
-}
-
-nav {
-  padding: 15px;
+.well {
   text-align: center;
-  background-color: teal;
-}
-
-nav ul {
-  list-style-type: none;
-}
-
-nav li {
-  display: inline;
-  font-size: 25px;
-  padding: 50px;
-  margin: 50px;
-  color: black;
-}
-
-nav a {
-  text-decoration: none;
-}
-
-nav a:visited {
-  color: gray;
-}
-
-.navigation a:hover {
-  color: black;
-}
-header {
-max-width: 100%;
-margin: 0;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  background-color: darkgray;
+  radu
 }
 
 .well h1 {
-  text-align: center;
   font-weight: bold;
   color: black;
-}
-
-.well img {
-  float: right;
-  border-radius: 50%;
-}
-
-.well {
- border-radius: 0px;
 }
 
 .responsive {
@@ -94,7 +51,7 @@ margin: 0;
   height: auto;
 }
 
-.row h1{
+.row h1 {
   font-weight: bold;
   text-align: left;
   color: black;
@@ -103,10 +60,7 @@ margin: 0;
 .row li {
   color: #696969;
 }
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
+
 }
 .box {
   background-color: lightgrey;
@@ -114,4 +68,29 @@ margin: 0;
   border:5px solid teal;
   padding: 25px;
   margin: 25px;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/gary2.jpg);
+  height: 80%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 45px;
 }
