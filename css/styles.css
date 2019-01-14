@@ -3,12 +3,12 @@ body {
   background-color: lightgray;
 }
 
-.project h1 {
+ .project h1 {
   font-size: 50px;
   font-style: normal;
   padding-top: 3%;
   padding-bottom: 3%;
-  text-align: center;
+  text-align: center; */
 
 }
 .panel-body img {
@@ -34,7 +34,7 @@ body {
 }
 
 .well {
-  text-align: center;
+  text-align: left;
   padding-bottom: 50px;
   padding-top: 50px;
   background-color: darkgray;
@@ -84,4 +84,12 @@ body, html {
   transform: translate(-50%, -50%);
   color: white;
   font-size: 50px;
+}
+
+.box {
+  background-color: lightgrey;
+  width: 1100px;
+  border: 10px solid teal;
+  padding: 25px;
+  margin: 25px;
 }
