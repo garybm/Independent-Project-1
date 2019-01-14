@@ -19,9 +19,9 @@ There are no known bugs.
 
 ## Technologies Used
 
-CSS
-HTML 
-Boostrap application
+* _CSS
+* _HTML 
+* _Boostrap application
 
 ### License
 
