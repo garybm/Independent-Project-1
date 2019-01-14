@@ -9,14 +9,13 @@ This is the first Epicodus independent project. I did a Portafolio landing page 
 
 ## Setup/Installation Requirements
 
--Open the following link in a browser https://github.com/garybm/Portafolio-Landing-Page
+-Open the following link in a browser https://garybm.github.io/Portafolio-Landing-Page/
 
 
 ## Known Bugs
 
 There are no known bugs.
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
 
 ## Technologies Used
 
