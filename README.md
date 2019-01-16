@@ -1,12 +1,12 @@
-# _{Portfolio website for Philip Eskins, Last Updated 01-11-19}_
+# _Gary's Portafolio_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Portfolio website for Gary Bermudez, Last Updated 01-15-19_
 
-#### By _**{List of contributors}**_
+#### By _**Gary Bermudez**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This website is to show off my CSS, HTML and Bootstrap application skills. It has a section that displays three projects, About and Education._
 
 ## Setup/Installation Requirements
 
