@@ -1,4 +1,4 @@
-# _Gary's Portafolio_
+# _Gary's Portfolio_
 
 #### _Portfolio website for Gary Bermudez, Last Updated 01-15-19_
 
@@ -7,31 +7,28 @@
 ## Description
 
 _This website is to show off my CSS, HTML and Bootstrap application skills. It has a section that displays three projects, About and Education._
+_Link to the viewable portfolio Link to viewable portfolio https://garybm.github.io/Portafolio-Landing-Page
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Download repository from https://github.com/garybm/Portafolio-Landing-Page
+* _Open index.html using your browser of choice
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_No known bugs_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_If you have problems or would like to comment about something feel free to contact me at garybm.17@gmail.com_  
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_This website uses HTML, CSS, and Bootstrap_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*This website is licensed under the MIT license*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_Gary Bermudez_**
